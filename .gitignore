@@ -287,3 +287,6 @@ dist
 !.vscode/*.code-snippets
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,node,visualstudiocode,jetbrains+all
+
+yarn.lock
+lib
